@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6j0648/v1
+canonical_location: https://kanripo.org/bkk/KR6j0648/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 金剛摧碎陀羅尼
+  identifiers:
+    alt_id:
+    - T21n1416
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1416.xml
+    old_id: T21n1416
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0648_000.yaml, hash: 'sha256:8de7b81178369ff82c37bcb8112a38a4e33a1fef50901e695ee52d22cc56081c'}
+  - {seq: 1, filename: KR6j0648_001.yaml, hash: 'sha256:d78fd95e5dc67180dd97dabca0056ac86ef2a85986031de11610278331a244b0'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0648_001.markers.yaml, hash: 'sha256:f890f17a3e0e97bc04458047398ec241d911782d1b761f43fb242b06f253accf'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0648_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1239
+  label: 金剛摧碎陀羅尼
+  type: juan
+  level: 1
+hash: sha256:9b3cc01adcee818b9edf51fa2306d334d4c1db820f1824a7a7c39f6277f39418
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: T

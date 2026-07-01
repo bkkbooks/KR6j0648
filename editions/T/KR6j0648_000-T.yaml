@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0648/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛摧碎陀羅尼
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1416.xml
+    old_id: T21n1416
+hash: sha256:8de7b81178369ff82c37bcb8112a38a4e33a1fef50901e695ee52d22cc56081c
