@@ -267,7 +267,6 @@ markers:
   - {type: xml-element, offset: 516, content: '', id: KR6j0648_T_001-bkkxmlele189, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 519, content: '', id: KR6j0648_T_001-bkkxmlele190, name: note, role: close, attrs: {place: inline}}
   - {type: indent, offset: 519, content: 　, id: KR6j0648_T_001-bkkind44}
-  - {type: substitution, offset: 526, original: 隷, replacement: 隸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0628}}
   - {type: line-break, offset: 529, content: '', id: KR6j0648_T_001-0931c04, ed: T, 'n': 0931c04}
   - {type: xml-element, offset: 532, content: '', id: KR6j0648_T_001-bkkxmlele191, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 534, content: '', id: KR6j0648_T_001-bkkxmlele192, name: note, role: close, attrs: {place: inline}}
@@ -281,7 +280,6 @@ markers:
   - {type: xml-element, offset: 551, content: '', id: KR6j0648_T_001-bkkxmlele197, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 554, content: '', id: KR6j0648_T_001-bkkxmlele198, name: note, role: close, attrs: {place: inline}}
   - {type: indent, offset: 554, content: 　, id: KR6j0648_T_001-bkkind47}
-  - {type: substitution, offset: 555, original: 隷, replacement: 隸, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0628}}
   - {type: xml-element, offset: 561, content: '', id: KR6j0648_T_001-bkkxmlele199, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 563, content: '', id: KR6j0648_T_001-bkkxmlele200, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 564, content: '', id: KR6j0648_T_001-bkkxmlele201, name: note, role: open, attrs: {place: inline}}
@@ -618,4 +616,4 @@ markers:
   - {type: xml-element, offset: 1239, content: '', id: pT21p0931b0701_end, name: p, role: close, attrs: {'cb:type': dharani, 'xml:id': pT21p0931b0701}}
   - {type: line-break, offset: 1239, content: '', id: KR6j0648_T_001-0932a12, ed: T, 'n': 0932a12}
   back: []
-hash: sha256:f890f17a3e0e97bc04458047398ec241d911782d1b761f43fb242b06f253accf
+hash: sha256:0d1ba47b7f8a01272c52659054f57a32d5e9c2a489039ad47f58afde1ac97af6
