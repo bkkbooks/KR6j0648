@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0648/v1
 canonical_location: https://kanripo.org/bkk/KR6j0648/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 金剛摧碎陀羅尼
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0648_000.yaml, hash: 'sha256:8de7b81178369ff82c37bcb8112a38a4e33a1fef50901e695ee52d22cc56081c'}
-  - {seq: 1, filename: KR6j0648_001.yaml, hash: 'sha256:f2d859e73f9db6597e26c3c10c7d4f9ad76c9d871e865e9e9e93a6007b544059'}
+  - {seq: 1, filename: KR6j0648_001.yaml, hash: 'sha256:d78fd95e5dc67180dd97dabca0056ac86ef2a85986031de11610278331a244b0'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0648_000.markers.yaml, hash: 'sha256:8347d9fdad7ff0c971fe49274d44916452f7113d37c32670aa1ff008fb42fd81'}
-  - {seq: 1, role: markers, filename: assets/KR6j0648_001.markers.yaml, hash: 'sha256:0d1ba47b7f8a01272c52659054f57a32d5e9c2a489039ad47f58afde1ac97af6'}
+  - {seq: 1, role: markers, filename: assets/KR6j0648_001.markers.yaml, hash: 'sha256:bea7f5dece190d86a68b459e351b404ec2b34ecf4b8b7c2f4ae4705bf4039764'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 金剛摧碎陀羅尼
   type: juan
   level: 1
-hash: sha256:82fe6d390973a407efc0b305f288c49945d1c8ce9fe96927d63fdec25225dd01
+hash: sha256:c893f3fbd3a6964b1d871ae77a6a6436fb2970d73aea4dfcb77407a84dfbcc85
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
